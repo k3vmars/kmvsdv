@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <header>Home</header>
     <button>Open</button>
 </body>
 
