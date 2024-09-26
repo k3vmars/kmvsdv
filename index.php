@@ -8,7 +8,8 @@
 </head>
 
 <body>
-    <button>Click</button>
+    <h1>Zagolovok</h1>
+    <button class="btn">Click</button>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe, ratione.</p>
 
 
