@@ -8,9 +8,10 @@
 </head>
 
 <body>
-    <?php
-    phpinfo();
-    ?>
+    <button>Click</button>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe, ratione.</p>
+
+
 </body>
 
 </html>
