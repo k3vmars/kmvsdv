@@ -8,10 +8,7 @@
 </head>
 
 <body>
-    <button>Click</button>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe, ratione.</p>
-
-
+    <button>Open</button>
 </body>
 
 </html>
